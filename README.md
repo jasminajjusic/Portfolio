@@ -1,9 +1,7 @@
 # Portfolio
 Welcome to my projects portfolio! Here you can find all my projects, grouped by technology.
 
-## React Native
 
-- [WordLearner](https://github.com/YourUsername/WordLearner) - Vocabulary learning app
 
 ## Flutter
 - [BankApp](https://github.com/jasminajjusic/BankApp) - Banking simulation app
