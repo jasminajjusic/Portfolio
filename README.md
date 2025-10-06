@@ -4,7 +4,7 @@ Welcome to my projects portfolio! Here you can find all my projects, grouped by 
 
 
 ## Flutter
-- [BankApp](https://github.com/jasminajjusic/BankApp) - Banking simulation app
+- [Bank-App](https://github.com/jasminajjusic/Bank-App) - Banking simulation app
 - [MyBudget](https://github.com/jasminajjusic/MyBudget) - Mobile app for personal budgeting
 - [hotel-booking](https://github.com/jasminajjusic/hotel-booking) - Mobile app for hotel booking
 
