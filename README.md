@@ -13,7 +13,7 @@ Welcome to my projects portfolio! Here you can find all my projects, grouped by 
 - [Meal-Planner](https://github.com/jasminajjusic/Meal-Planner) - React Native mobile app that helps users plan meals, discover recipes, generate AI-powered meal plans, and manage a shopping list. 
   
 ## Java
-- [MathLearningApp](https://github.com/jasminajjusic/MathLearningApp) - Math learning app for kids
+- [MathLearningApp](https://github.com/jasminajjusic/MathLearningApp) - Math Learning App is a Java desktop application designed for elementary school students to practice basic math skills.
 
 ## PHP / Web
 - [AirlineBookingSystem](https://github.com/jasminajjusic/AirlineBookingSystem) - Airline booking web app with login for users and admins
