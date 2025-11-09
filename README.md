@@ -49,4 +49,3 @@ Here you can explore my projects, grouped by technology, with a short descriptio
 
 ---
 
-> 💡 Tip: Add screenshots or GIFs of your apps for extra visual appeal!
