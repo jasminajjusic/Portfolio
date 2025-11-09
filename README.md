@@ -9,7 +9,7 @@ Welcome to my projects portfolio! Here you can find all my projects, grouped by 
 - [hotel-booking](https://github.com/jasminajjusic/hotel-booking) - A Flutter-based hotel booking application that allows users to search, view, and book hotels with a smooth and modern experience.
 
 ## React Native
-- [WordLearner](https://github.com/jasminajjusic/WordLearner) - Words learning app
+- [WordLearner](https://github.com/jasminajjusic/WordLearner) - WordLearner is a React Native application designed to help users expand their vocabulary and improve language skills through fun and interactive games.
 - [Meal-Planner](https://github.com/jasminajjusic/Meal-Planner) - React Native mobile app that helps users plan meals, discover recipes, generate AI-powered meal plans, and manage a shopping list. 
   
 ## Java
