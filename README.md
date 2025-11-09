@@ -4,7 +4,7 @@ Welcome to my projects portfolio! Here you can find all my projects, grouped by 
 
 
 ## Flutter
-- [Bank-App](https://github.com/jasminajjusic/Bank-App) - mobile banking simulation app 
+- [Bank-App](https://github.com/jasminajjusic/Bank-App) - Bank-App is a mobile banking simulation app built with Flutter and BLoC
 - [MyBudget](https://github.com/jasminajjusic/MyBudget) -  personal budgeting app
 - [hotel-booking](https://github.com/jasminajjusic/hotel-booking) - hotel booking application 
 
