@@ -16,5 +16,5 @@ Welcome to my projects portfolio! Here you can find all my projects, grouped by 
 - [MathLearningApp](https://github.com/jasminajjusic/MathLearningApp) - Math Learning App is a Java desktop application designed for elementary school students to practice basic math skills.
 
 ## PHP / Web
-- [AirlineBookingSystem](https://github.com/jasminajjusic/AirlineBookingSystem) - Airline booking web app with login for users and admins
+- [AirlineBookingSystem](https://github.com/jasminajjusic/AirlineBookingSystem) - Airline Booking System is a web application built with PHP, HTML, and CSS, using phpMyAdmin as the database management tool.
 
